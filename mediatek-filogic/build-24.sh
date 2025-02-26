@@ -36,10 +36,12 @@ PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
+PACKAGES="$PACKAGES luci-i18n-modemband-zh-cn"
+PACKAGES="$PACKAGES luci-app-3ginfo-lite"
 # 增加几个必备组件 方便用户安装iStore
-PACKAGES="$PACKAGES fdisk"
-PACKAGES="$PACKAGES script-utils"
-PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
+#PACKAGES="$PACKAGES fdisk"
+#PACKAGES="$PACKAGES script-utils"
+#PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 
 
 # 判断是否需要编译 Docker 插件
