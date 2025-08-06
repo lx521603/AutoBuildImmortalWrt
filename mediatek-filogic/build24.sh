@@ -60,9 +60,9 @@ PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-3ginfo-lite-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-modemband-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-smartdns-zh-cn"
-PACKAGES="$PACKAGES luci-app-iptvhelper"
-PACKAGES="$PACKAGES luci-app-msd_lite"
-PACKAGES="$PACKAGES luci-app-turboacc"
+#PACKAGES="$PACKAGES luci-app-iptvhelper"
+#PACKAGES="$PACKAGES luci-app-msd_lite"
+#PACKAGES="$PACKAGES luci-app-turboacc"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
